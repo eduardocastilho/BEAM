@@ -71,7 +71,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](L
 
 ## Contato
 
-Seu Nome - [@duca404](https://twitter.com/duca404) - br.eduardocastilho@gmail.com
+Eduardo Castilho - [@duca404](https://twitter.com/duca404) - br.eduardocastilho@gmail.com
 
 Link do Projeto: [https://github.com/eduardocastilho/BEAM](https://github.com/eduardocastilho/BEAM)
 
