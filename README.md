@@ -21,19 +21,19 @@ BEAM é uma ferramenta poderosa e flexível para explorar e analisar transaçõe
 
 1. Clone o repositório:
 
-git clone repo cd BEAM
+```git clone https://github.com/eduardocastilho/BEAM.git cd BEAM```
 
 
 2. Instale as dependências:
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 
 ## Uso
 
 Execute o script principal:
 
-python main.py
+```python main.py```
 
 
 Siga as instruções na tela para inserir um endereço Bitcoin ou usar o endereço padrão fornecido.
@@ -71,9 +71,9 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](L
 
 ## Contato
 
-Seu Nome - [@seu_twitter](https://twitter.com/seu_twitter) - email@exemplo.com
+Seu Nome - [@duca404](https://twitter.com/duca404) - br.eduardocastilho@gmail.com
 
-Link do Projeto: [https://github.com/seu-usuario/BEAM](https://github.com/seu-usuario/BEAM)
+Link do Projeto: [https://github.com/eduardocastilho/BEAM](https://github.com/eduardocastilho/BEAM)
 
 ## Agradecimentos
 
