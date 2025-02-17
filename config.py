@@ -1,0 +1,1 @@
+BITCOIN_API_URL = "https://blockchain.info/rawaddr/"
